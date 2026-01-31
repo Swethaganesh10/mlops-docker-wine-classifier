@@ -127,13 +127,6 @@ The model demonstrates excellent performance in classifying all three wine types
 3. **Comprehensive evaluation metrics** are essential for understanding model behavior
 4. **Version control** and documentation are critical for reproducible ML workflows
 
-## Future Enhancements
-- Add cross-validation for more robust evaluation
-- Implement hyperparameter tuning (GridSearchCV)
-- Add model versioning and experiment tracking (MLflow)
-- Deploy as REST API using Flask
-- Add data visualization (feature importance plots)
-
 ## Course Information
 **Course**: MLOps  
 **Institution**: Northeastern University  
